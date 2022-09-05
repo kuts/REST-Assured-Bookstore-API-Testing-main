@@ -40,5 +40,8 @@ allure serve allure-results
 
 ### Reports View
 These are the screenshots of **Allure** reports:
+![Allure-Report1](https://user-images.githubusercontent.com/422126/188506876-ca8a949a-b468-47b1-b6b9-ec66c0d4c174.png)
+
+![Allure-Report2](https://user-images.githubusercontent.com/422126/188506846-0f60f03d-70c9-431e-b205-50a8c7df4e90.png)
 
 
